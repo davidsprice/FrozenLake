@@ -2,18 +2,13 @@
 Frozen Lake Dynamic Programming file for the Advanced Machine Learning course of Udacity's Machine Learning nano-degree.
 
 ## Target :
-Training a reinforcement learning (RL) agent (quadcopter controller) to learn to fly and perform the defined tasks in direction to maximise reward.
+Write my own implementations of many classical dynamic programming algorithms.
 
 ## Algorithm Class :
 Frozen Lake
 
 ## Problem Type :
 TBD
-
-## Final Result :
-Final Reward-Episode Plot :
-
-![](Final_Quadcopter_Reward_Plot.png)
 
 # Project Instructions
 1. Clone the repository and navigate to the downloaded folder.
@@ -30,7 +25,7 @@ conda create -n FrozenLake python=3.6 matplotlib numpy pandas keras-gpu
 source activate FrozenLake
 ~~~~
 
-3. Create an [IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the Monte Carlo environment.
+3. Create an [IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the Frozen Lake environment.
 
 ~~~~
 python -m ipykernel install --user --name frozenlake --display-name "frozenlake"
