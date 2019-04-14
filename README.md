@@ -1,5 +1,5 @@
 # FrozenLake
-Frozen Lake Dynamic Programming file for the Advanced Machine Learning course of Udacity's Machine Learning nano-degree.
+Frozen Lake Dynamic Programming file for the Advanced Machine Learning course of Udacity's Machine Learning nanodegree.
 
 ## Target :
 Write my own implementations of many classical dynamic programming algorithms.
